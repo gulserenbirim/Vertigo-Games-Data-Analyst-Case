@@ -1,5 +1,4 @@
 # Vertigo-Games-Data-Analyst-Case
-# Vertigo-Games-Case-
 
 In this task, I conducted a 30-day projection simulation to compare two distinct business strategies:
 
