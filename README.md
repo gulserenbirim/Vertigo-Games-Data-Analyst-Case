@@ -48,10 +48,8 @@ proved far more effective at keeping new users engaged within the ecosystem. Var
 f) Final Strategic Recommendation:
 Based on the analysis, the best long-term investment is Option 2 – a permanent new user source. While temporary discounts can generate short-term revenue spikes, continuous top-of-funnel growth delivers significantly higher ROI and provides a much more scalable and sustainable growth trajectory.
 
+<img width="609" height="206" alt="image" src="https://github.com/user-attachments/assets/59fa814b-150e-4dfa-929e-9571608e03fc" />
 
-<img width="558" height="46" alt="image" src="https://github.com/user-attachments/assets/4102d1d2-98a2-4ef7-8d98-c6c1cd13ebfb" />
-
-<img width="592" height="211" alt="image" src="https://github.com/user-attachments/assets/470d383f-4cad-4a81-9886-67f563c97363" />
 
 Task 2: Player Experience & Deep Economy Analysis
 
@@ -90,26 +88,33 @@ Observation: In-App Purchases (IAP) account for 85.8% of total revenue, while Ad
 
 Insight: Our economy is heavily driven by direct purchases. Any strategy that harms long-term user retention (like aggressive ad frequency) risks our primary 85.8% revenue stream.
 
-<img width="698" height="655" alt="image" src="https://github.com/user-attachments/assets/c940fe90-c956-41de-96cf-1e84e6539f34" />
+<img width="642" height="633" alt="image" src="https://github.com/user-attachments/assets/7b205d53-0530-46f7-8e5d-e136fc1b08b2" />
+
 
 Competitive Fairness: The SVP Potential
 Observation: 31.75% of losing players (26,481 users) are classified as "High-Effort" candidates.
 
 Insight: These players invest significant time (High Session Duration) and energy into matches they ultimately lose. Implementing an SVP (Second Valuable Player) bonus for this top 31.75% will protect them from "Rank Churn" and improve long-term engagement.
-<img width="1013" height="608" alt="image" src="https://github.com/user-attachments/assets/9eb4ccdc-3783-471b-9e26-a1c156b37373" />
+
+<img width="980" height="610" alt="image" src="https://github.com/user-attachments/assets/16cc8ce3-c02a-4eff-bab1-1e04d4440c24" />
+
 
 Player Segmentation: Skill vs. Time Investment
 Observation: Elite players (Win Rate: 81%) generate 0.74 ARPU, while Grinders (Win Rate: 30%) generate only 0.33 ARPU despite high playtime.
 
 Insight: There is a clear correlation between skill and monetization. We should focus UA (User Acquisition) efforts on competitive channels that bring in high-skill "Elite" players to maximize ROI.
-<img width="666" height="100" alt="image" src="https://github.com/user-attachments/assets/4e455349-c8c6-4948-9362-e878d6ec192e" />
+
+<img width="629" height="99" alt="image" src="https://github.com/user-attachments/assets/d05a6832-5dcc-4684-91f5-12a9f63af341" />
+
 
 
 Match Flow: The "Feeder" Loop Analysis
 Observation: The Feeder segment (26,864 users) has a stagnant average Win Rate of 35.88%.
 
 Insight: This segment is likely trapped in a negative feedback loop. Introducing dynamic respawn timers or "pity mechanics" after consecutive deaths is essential to improve the FTUE (First Time User Experience) for these struggling players.
-<img width="1033" height="586" alt="image" src="https://github.com/user-attachments/assets/feaa1e03-07c9-4917-891c-db3fbe8aebe1" />
+
+<img width="1003" height="587" alt="image" src="https://github.com/user-attachments/assets/8e06100e-7a3e-4c20-8163-7d56e278d948" />
+
 
 
 Global Market Potential: ARPU by Country
@@ -117,7 +122,7 @@ Observation: Gabon shows the highest per-user value with a 6.66 ARPU, while Sout
 
 Insight: Our marketing strategy should be two-fold: High-ticket specialized offers for "Whale" boutique markets like Gabon, and community-driven engagement events for high-volume regions like South Korea.
 
-<img width="496" height="198" alt="image" src="https://github.com/user-attachments/assets/fcab2fb1-7226-4259-9b1f-a01019021311" />
+<img width="500" height="194" alt="image" src="https://github.com/user-attachments/assets/ec637663-f4d9-44c3-9b70-15e24d02f257" />
 
 
 Player Segmentation by Spending: Whale vs. Dolphin vs. Minnow
@@ -146,7 +151,8 @@ Dolphins show almost the same level of engagement as Whales but generate less re
 Minnow Retention & Monetization Strategy:
 The relatively low session duration of Minnows indicates a higher risk of early churn. For this group, I recommend increasing the use of Rewarded Video Ads to monetize their activity without requiring direct purchases. This approach allows the game to generate value from a large non-paying audience while keeping them engaged.
 
-<img width="591" height="202" alt="image" src="https://github.com/user-attachments/assets/5e84c1db-228f-4949-8ad2-a9d290d0dcf6" />
+<img width="628" height="202" alt="image" src="https://github.com/user-attachments/assets/39475301-da07-43d4-88d2-def40f582f5c" />
+
 
 
 Daily Revenue Trend (Satın Alma vs. Reklam)
@@ -155,7 +161,8 @@ Observation: In-App Purchase (IAP) revenue shows high volatility with sharp peak
 
 Insight: The peaks in IAP suggest that our revenue is highly sensitive to live ops, events, or specific offers. The flat line in Ad revenue indicates that we are not effectively scaling ad monetization with player activity; there is a significant opportunity to implement "Event-Based Rewarded Ads" to mirror the successful peaks seen in IAP.
 
-<img width="1144" height="590" alt="image" src="https://github.com/user-attachments/assets/b6f61a98-95d3-4a2b-9e68-27975c6c673e" />
+<img width="1065" height="580" alt="image" src="https://github.com/user-attachments/assets/8f03a671-f29b-45bb-beeb-69f218099708" />
+
 
 Correlation: Impact of Losses on Session Duration
 
@@ -165,7 +172,7 @@ Insight: At first glance, this seems counterintuitive (more losing leads to more
 
 Risk Factor: While this increases short-term playtime, it is a high-churn risk. If a player ends their session on a long losing streak (as shown by the dense clusters at high loss counts), their "Recency Bias" will make them less likely to return the next day. This further reinforces the need for the SVP (Second Valuable Player) rewards we discussed earlier to end a session on a positive note even after a loss.
 
-<img width="1029" height="610" alt="image" src="https://github.com/user-attachments/assets/ba51962c-59be-4967-a750-8248ce29d51a" />
+<img width="945" height="611" alt="image" src="https://github.com/user-attachments/assets/d16da7b6-6572-4b59-bec6-97031bd31bb7" />
 
 
 
